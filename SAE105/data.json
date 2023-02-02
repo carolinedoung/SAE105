@@ -1,0 +1,58 @@
+[
+    {
+        "num": "1",
+        "analogie": "un animal",
+        "valeurAnalogie": "un chat",
+        "explication": "c’est l’un de mes animaux préférés. Comme un chat, je souhaiterais dormir toute la journée et être dorlotée par des humains. Le fait de ne pas avoir à se préoccuper des problèmes quotidiens me paraît idéal. Je pourrais me promener dehors quand bon me semble mais en même temps avoir un toit où dormir.",
+        "image": "./images/pexels-chat.jpeg",
+        "alt":"Photo d'un chat"
+    },
+    {
+        "num": "2",
+        "analogie": "un livre",
+        "valeurAnalogie": "Avoir le courage de ne pas être aimé écrit par Ichiro Kishimi et Koga Fumitake",
+        "explication": "j’ai trouvé ce livre très enrichissant. J'ai beaucoup aimé le lire. Il m’a appris énormément de choses. Ce livre a été un réconfort pour moi. Il m’a également permis de découvrir un autre genre. Dans ce roman, il y a plusieurs thèmes qui m’ont particulièrement touchés, d'où le choix que j'ai fait.",
+        "image": "./images/livres.jpg",
+        "alt":"Photo de livres"
+    },
+    {
+        "num": "3",
+        "analogie": "une couleur",
+        "valeurAnalogie": "un dégradé de pastel",
+        "explication": " comme il y a plusieurs couleurs, c’est plus simple pour moi. Je n’ai pas à choisir quelle couleur je préfère car je les apprécie toutes. En d’autre termes, je suis une personne assez indécise. En effet, chacune de ces couleurs ont une signification qui me paraissent intéressantes. Ces couleurs me sont lumineuses. Le bleu pastel symbolise la paix et l'harmonie et le vert pastel représente l'espoir, la naissance et le renouveau.",
+        "image": "./images/pexels-gradientabis.jpg",
+        "alt":"Photo d'une palette de couleur"
+    },
+    {
+        "num": "4",
+        "analogie": "un astre",
+        "valeurAnalogie": "une étoile",
+        "explication": "l’étoile est un astre qui me fascine. J’aime énormément regarder le ciel étoilé la nuit. Dès que j’observe les étoiles, j’ai l’impression d’être transportée dans une autre dimension. C’est comme si les étoiles nous observaient alors que nous sommes les seuls à les contempler.",
+        "image": "./images/étoiles.jpg",
+        "alt":"Photo d'étoiles"
+    },
+    {
+        "num": "5",
+        "analogie": "une musique",
+        "valeurAnalogie": "Fushigi de Gen Hoshino",
+        "explication": "c'est une musique qui me rappelle des bons souvenirs. Quand j'écoute une musique, je l'écoute en boucle pendant un moment. Après une écoute régulière je me lasse généralement de la musique. Pour cette musique que j'ai choisie, c'est tout l'inverse. J'aime toujours autant l'écouter.",
+        "image": "./images/micro.jpg",
+        "alt":"Photo d'un micro"
+    },
+    {
+        "num": "6",
+        "analogie": "un des 4 éléments",
+        "valeurAnalogie": "l'eau",
+        "explication": " pour moi l’eau représente métaphoriquement un élément à la fois paisible mais en même temps avec un tempérament. Cela représente donc un trait de ma personnalité. Je suis de nature calme mais je peux aussi être débordée par les événements.",
+        "image": "./images/mer.jpg",
+        "alt":"Photo d'un élément des 4 éléments"
+    },
+    {
+        "num": "7",
+        "analogie": "une fleur",
+        "valeurAnalogie": "la fleur de cerisier",
+        "explication": " c’est l’une de mes fleurs préférées. C’est une fleur qui éclot chaque printemps. Je les trouve magnifiques. Dans la culture japonaise ces fleurs représentent le symbole de la vie qui est belle et courte. Elles sont aussi le synonyme de renouveau, de beauté éphémère et d'évolution. Ce sont des significations qui ont du sens pour moi.",
+        "image": "./images/cherry-blossombis.jpg",
+        "alt":"Photo d'une fleur de cerisier"
+    }
+]
