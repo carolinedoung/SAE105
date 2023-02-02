@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Portrait Chinois - Caroline DOUNG</title>
+</head>
+
+<body>
+    <div class="hautdepage">
+    <h1 id="titre" class="color_t center">Portrait Chinois</h1>
+    <h2 id="sous_titre" class="color_t center">Caroline DOUNG</h2>
+   
+
+    <section class="intro">
+    <p class="desc"> Bonjour et bienvenue, je suis étudiante en première année de BUT MMI (Métiers du Multimédia et de l'Internet). Dans le cadre d'une SAE (Situation d'Apprentissage Evaluée), nous devons dû réaliser un portrait chinois. Je vous présente donc le mien. Bonne lecture.</section>
+
+    </p>
+</div>
+
+    <section id="main">
+
+    </section>
+
+
+<!-- début formulaire -->
+
+<form class="formulaire">
+    <h3 class="titreformulaire">Créer son analogie</h3>
+    <br>
+        <label for="name">Si j'étais</label>
+        <input type="text" id="analogie" name="name" required minlength="4" maxlength="30" size="20"placeholder="Ex : un animal" >
+
+        <label for="name">je serais</label>
+        <input type="text" id="valeur-analogie" name="name" required minlength="4" maxlength="30"   size="25" placeholder="Ex : un chat" >
+    <br>
+    <br>
+        <label for="explicationform">Explication</label>
+        <textarea id="explicationform" name="name" rows="6" cols="30" placeholder="Ex : parce que c'est mon animal préféré..."></textarea>
+    <br>
+    <br>
+        <label for="name">URL photo</label>
+        <input type="url" id="photo" name="name" required minlength="4" maxlength="1000" size="55" placeholder="Lien de votre choix">
+    <br>
+    <br>
+        <label for="mail">Email</label>
+        <input type="email" id="mail" name="name" required minlength="4" maxlength="1000" size="60" placeholder="Entrez votre adresse mail">
+        
+        <p class="send">Envoyer</p>
+
+    </form>
+    <!-- fin formulaire -->
+
+<button data-modal-target="#modal">Mentions légales</button>
+<div class="modal" id="modal">
+    <div class="modal-header">
+        <button data-close-button class="close-button">&times;</button>
+        <div class="title"> Mentions légales</div>
+    </div>
+    <div class="modal-body">
+    <br>
+    Le site est hébergé sur le serveur de l’université en France. 
+    <br>
+    <br>
+    Les données du formulaire sont envoyées à l’API de Philippe Gambette (philippe.gambette@univ-eiffel.fr) à partir de ce site vers une base de données :
+    <a href="https://perso-etudiant.u-pem.fr/~gambette/portrait/api.php">lien vers site.</a> 
+    <br>
+    <br>
+    Les photos que j’ai utilisées sont toutes libres de droit. Ce sont des images qui viennent des sites Pixabay et Pexels.  
+    <br>
+    <br>
+    Merci à Arthur ZACHARY, Morgan ZARKA, Idriss MEROUANE et Anchana FATIMARAJAN. Ils m’ont aidé pour le code Javascript.  
+
+    </div>
+</div>
+<div id="overlay"></div>
+
+</body>
+<script src="generate.js"></script>
+
+</html>
+
+
+
+  
